@@ -101,3 +101,5 @@ export default function AddNoteDialog({ open, setOpen }: AddNoteDialogProps) {
     </Dialog>
   );
 }
+
+
