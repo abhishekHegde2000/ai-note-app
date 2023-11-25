@@ -58,7 +58,7 @@ https://github.com/abhishekHegde2000/ai-note-app/assets/88794340/fa709d86-efca-4
 1. Clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/ai-note-taking-app.git
+git clone https://github.com/abhishekHegde2000/ai-note-app.git
 ```
 
 2. Install the project dependencies:
@@ -84,4 +84,4 @@ http://localhost:3000
 
 ## Contribution
 
-We welcome contributions to this project. Please feel free to submit issues, pull requests, or suggestions for improvement.
+I welcome contributions to this project. Please feel free to submit issues, pull requests, or suggestions for improvement.
