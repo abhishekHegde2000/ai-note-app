@@ -5,6 +5,10 @@
 
 Introducing a revolutionary AI-powered note-taking app that elevates note-taking to a whole new level. This innovative app utilizes the power of artificial intelligence to analyze your notes and provide comprehensive answers to your queries. Say goodbye to the days of manually searching through piles of notes – our AI assistant will do the work for you, saving you time and effort.
 
+## Project Demo
+
+https://github.com/abhishekHegde2000/ai-note-app/assets/88794340/fa709d86-efca-421b-9251-421db9f810b0
+
 ## Features
 
 * **AI-Powered Chatbot:** Engage in real-time conversations with our AI chatbot, ask questions about your notes, and receive insightful answers.
